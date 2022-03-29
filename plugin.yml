@@ -1,0 +1,5 @@
+name: JSMYCore
+main: Core\Loader
+version: 1.0
+api: [3.0.0]
+author: JSMY Team
