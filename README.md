@@ -1,2 +1,1 @@
-# JSMYCore
-A server stealed old HyperiumCore and announce that code by him soo i gonna made it public
+play.osmynetwork.my.to:21350 is using this core
